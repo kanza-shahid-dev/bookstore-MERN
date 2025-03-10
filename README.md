@@ -1,4 +1,4 @@
-# bookstore-MERN
+# Bookstore-MERN
 This project is a full-stack book management application. 
 
 
