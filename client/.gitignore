@@ -1,0 +1,11 @@
+/node_modules
+
+.next 
+.env
+
+logs
+*.log
+
+.lock-wscript
+/.idea/
+*.editorconfig
